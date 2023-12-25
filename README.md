@@ -1,6 +1,6 @@
 # Lost and Found System
 
-![Project Logo](path/to/your/logo.png)
+![Project Logo](website_img/logo1.jpg)
 
 ## Table of Contents
 
