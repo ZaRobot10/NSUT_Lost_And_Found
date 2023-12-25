@@ -1,6 +1,6 @@
 # Lost and Found System
 
-![Project Logo](website_img/logo1.jpg)
+![Project Logo](website_img/logo1.jpeg)
 
 ## Table of Contents
 
