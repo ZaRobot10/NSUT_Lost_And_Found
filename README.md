@@ -1,6 +1,7 @@
+
 # Lost and Found System
 
-![Project Logo](website_img/logo1.jpeg)
+  <img src="website_img/logo2.jpg" alt="Project Logo" width="350" />
 
 ## Table of Contents
 
@@ -29,9 +30,8 @@ The Lost and Found System is a web-based platform designed to manage lost and fo
 
 Before you begin, ensure you have the following installed:
 
-- [Web server (e.g., Apache, Nginx)](link/to/web-server)
-- [PHP](link/to/php)
-- [MySQL](link/to/mysql)
+- [Web server (e.g., Apache, Nginx)](https://www.apachefriends.org/)
+- [PHP](https://www.php.net/downloads.php)
 
 ### Installation
 
@@ -42,15 +42,13 @@ Before you begin, ensure you have the following installed:
 
 #### Configure the Database:
 
-1. Create a MySQL database and user.
-2. Import the SQL schema from `database/schema.sql`.
-3. Update database connection details in `config.php`.
+1. Create a MySQL database called lostandfound on XAMPP.
+2. Import the SQL schema from `database/schema.sql` and run it on XAMPP to create the required tables.
 
 #### Configure Web Server:
 
-1. Point your web server to the project's root directory.
+1. Point your web server to the project's root directory (Usally htdocs).
 2. Ensure that the server is configured to execute PHP files.
-
 3. Start the web server and open the application in your browser.
 
 ## Usage
