@@ -1,7 +1,7 @@
 
 # Lost and Found System
 
-  <img src="website_img/logo2.jpg" alt="Project Logo" width="350" />
+  <img src="website_img/logo2.jpg" alt="Project Logo" width="650" />
 
 ## Table of Contents
 
