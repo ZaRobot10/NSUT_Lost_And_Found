@@ -54,6 +54,45 @@ Before you begin, ensure you have the following installed:
 ## Usage
 
 - Visit the application in your web browser.
-- Register or log in to your account.
+   
+   <p align="center">
+     <img src="website_img/login_page.jpeg" alt="Login Page" width="600" />
+   </p>
+
+   
+-  Register or log in to your account.
+
+   <p align="center">
+     <img src="website_img/registration_form.jpeg" alt="Registration Form" width="600" />
+   </p>
+
+   
 - Report lost or found items.
+   <p align="center">
+     <img src="website_img/upload.jpeg" alt="Registration Form" width="600" />
+   </p>
+
+
+- View the list of items reported by others.
+   <p align="center" style="display: flex; justify-content: space-between;">
+   <img src="website_img/lost_items.jpeg" alt="Lost Items" width="450" />
+   <img src="website_img/found_item.jpeg" alt="Found Item" width="450" />
+</p>
+
+  
 - Administer claims through the admin dashboard.
+  <p align="center" style="display: flex; justify-content: space-between;">
+   <img src="website_img/found_admin.jpeg" alt="Lost Items" width="450" />
+   <img src="website_img/claim_item_form.jpeg" alt="Found Item" width="450" />
+
+
+- Remove lost items through the admin dashboard.
+   <p align="center">
+     <img src="website_img/lost_admin.jpeg" alt="Login Page" width="600" />
+   </p>
+
+   
+- View the record of claimed items through the admin dashboard.
+   <p align="center">
+     <img src="website_img/claims.jpeg" alt="Login Page" width="600" />
+   </p>
