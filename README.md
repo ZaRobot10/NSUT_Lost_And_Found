@@ -74,16 +74,24 @@ Before you begin, ensure you have the following installed:
 
 
 - View the list of items reported by others.
-   <p align="center" style="display: flex; justify-content: space-between;">
-   <img src="website_img/lost_items.jpeg" alt="Lost Items" width="450" />
-   <img src="website_img/found_item.jpeg" alt="Found Item" width="450" />
-</p>
+     <p align="center">
+     <img src="website_img/lost_items.jpeg" alt="Lost Items" width="600" />
+   </p>
+
+   <p align="center">
+     <img src="website_img/found_item.jpeg" alt="Found Item" width="600" />
+   </p>
 
   
 - Administer claims through the admin dashboard.
-  <p align="center" style="display: flex; justify-content: space-between;">
-   <img src="website_img/found_admin.jpeg" alt="Lost Items" width="450" />
-   <img src="website_img/claim_item_form.jpeg" alt="Found Item" width="450" />
+  <p align="center">
+     <img src="website_img/found_admin.jpeg" alt="Lost Items" width="600" />
+   </p>
+
+
+   <p align="center">
+     <img src="website_img/claim_item_form.jpeg" alt="Found Item" width="600" />
+   </p>
 
 
 - Remove lost items through the admin dashboard.
